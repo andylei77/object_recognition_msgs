@@ -1,6 +1,8 @@
 ##################################################### HEADER ###########################################################
 Header header
 
+sensor_msgs/Image image
+
 # This message type describes a potential scene configuration: a set of objects that can explain the scene
 object_recognition_msgs/RecognizedObject[] objects
 
